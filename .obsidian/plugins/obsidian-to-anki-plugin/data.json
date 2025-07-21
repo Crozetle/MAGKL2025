@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Задание с пропусками": "",
+      "Простая": "",
+      "Простая (с вводом ответа)": "",
+      "Простая (с обратной карточкой)": "",
+      "Простая (с обратной по выбору)": "",
+      "Скрытие части изображений": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Задание с пропусками": "Текст",
+      "Простая": "Front",
+      "Простая (с вводом ответа)": "Front",
+      "Простая (с обратной карточкой)": "Front",
+      "Простая (с обратной по выбору)": "Front",
+      "Скрытие части изображений": "Скрытие"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {},
+    "FOLDER_TAGS": {},
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {},
+  "fields_dict": {}
+}
