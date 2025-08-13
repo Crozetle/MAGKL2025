@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "83d981a77b71f229",
+        "id": "fb496eaedc7019bf",
         "type": "tabs",
         "children": [
           {
-            "id": "af212db8a9f2d768",
+            "id": "a2627be6957e4131",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ПШ/Вопросы/025.md",
+                "file": "Анализ данных/Анализ данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "025"
+              "title": "Анализ данных"
             }
           },
           {
-            "id": "a67853f6a1341b8a",
+            "id": "6f018539a63b9c11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ПШ/Вопросы/026.md",
+                "file": "ПШ/Вопросы/048.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "026"
+              "title": "048"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:пусто",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "План.md",
+                "file": "ПШ/Вопросы/100.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for План"
+              "title": "Backlinks for 100"
             }
           },
           {
@@ -194,88 +193,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "dfc0faef99830430",
-    "type": "floating",
-    "children": [
-      {
-        "id": "003ae19b7ee333b9",
-        "type": "window",
-        "children": [
-          {
-            "id": "d65a77e813d7c33e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "26244448061a3b0b",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -670,
-        "y": 214,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a67853f6a1341b8a",
+  "active": "a2627be6957e4131",
   "lastOpenFiles": [
-    "ПШ/Вопросы/025.md",
-    "ПШ/Вопросы/026.md",
     "ПШ/ПШ.md",
-    "ПШ/Anki/Анки 025.md",
+    "ПШ/Вопросы/093.md",
+    "ПШ/Вопросы/092.md",
+    "ПШ/Вопросы/091.md",
+    "ПШ/Вопросы/090.md",
+    "ПШ/Вопросы/089.md",
+    "ПШ/Вопросы/088.md",
+    "ПШ/Вопросы/087.md",
+    "ПШ/Вопросы/094.md",
+    "ПШ/Вопросы/095.md",
+    "ПШ/Вопросы/096.md",
+    "ПШ/Вопросы/097.md",
+    "ПШ/Вопросы/098.md",
+    "ПШ/Вопросы/099.md",
+    "ПШ/Вопросы/100.md",
     "ПШ/Вопросы/024.md",
-    "ПШ/Anki/Анки 024.md",
-    "ПШ/Вопросы/023.md",
-    "ПШ/Вопросы/022.md",
-    "ПШ/Вопросы/021.md",
-    "ПШ/Anki/Анки 023.md",
-    "ПШ/Anki/Анки 022.md",
-    "ПШ/Anki/Анки 021.md",
-    "ПШ/Anki/Анки 001.md",
+    "ПШ/Вопросы/044.md",
+    "ПШ/Вопросы/043.md",
+    "ПШ/Вопросы/042.md",
+    "ПШ/Вопросы/041.md",
+    "ПШ/Вопросы/040.md",
+    "ПШ/Вопросы/039.md",
+    "ПШ/Вопросы/038.md",
+    "ПШ/Вопросы/037.md",
+    "ПШ/Вопросы/036.md",
+    "ПШ/Вопросы/035.md",
+    "ПШ.zip",
+    "ПШ/090401 Интеллектуальные системы управления цифровой инфраструктурой предприятия.pdf",
+    "АТПП-СНИУ/Список вопросов - Автоматизация технологических процессов и производств.pdf",
+    "Расписание СНИУ.pdf",
+    "Pasted image 20250811035835.png",
+    "Pasted image 20250811035307.png",
+    "Pasted image 20250811034149.png",
+    "Pasted image 20250811033013.png",
+    "Расписание СамГТУ.pdf",
     "ПШ/Томас Коннолли, Каролин Бегг - Базы данных. Проектирование, реализация и сопровождение.pdf",
-    "ПШ/Вопросы/020.md",
-    "ПШ/Вопросы/009.md",
     "ПШ/БД/Pasted image 20250717210933.png",
-    "ПШ/Anki/Анки 007.md",
     "ПШ/БД/Pasted image 20250717210918.png",
-    "ПШ/Anki/Анки 006.md",
-    "ПШ/Anki/Анки 005.md",
-    "ПШ/Anki/Анки 004.md",
-    "ПШ/Anki/Анки 003.md",
-    "ПШ/Anki/Анки 002.md",
-    "ПШ/Вопросы/004.md",
     "ПШ/БД/Pasted image 20250717210811.png",
     "Pasted image 20250717210813.png",
     "ПШ/БД/Pasted image 20250717210756.png",
-    "ПШ/Вопросы/005.md",
-    "ПШ/Anki/Анки 009.md",
-    "ПШ/Вопросы/008.md",
     "ПШ/Хомоненко А.Д., Цыганков В.М., Мальцев М.Г. Базы данных. Учебник для высших учебных заведений 6-е изд. - 2009.pdf",
-    "ПШ/Anki/Анки 008.md",
     "ПШ/БД/Pasted image 20250717183230.png",
-    "ПШ/БД/Pasted image 20250717183208.png",
-    "ПШ/БД/Pasted image 20250717141551.png",
-    "ПШ/БД/Pasted image 20250717141521.png",
-    "ПШ/БД/Pasted image 20250717141315.png",
     "ПШ/Новый текстовый документ.txt",
-    "ПШ/090401 Интеллектуальные системы управления цифровой инфраструктурой предприятия.pdf",
     "ПШ/Томас Конноллb, Каролин Бегг - Базы данных. Проектирование, реализация и сопровождение. Теория и .pdf",
-    "ПШ/konnolli_tomas_begg_karolin_bazy_dannykh_proektirovanie_real.rar",
-    "ПШ/Не подтвержден 592720.crdownload",
-    "ПШ/Не подтвержден 924972.crdownload",
-    "Расписание СамГТУ.pdf",
-    "Расписание СНИУ.pdf"
+    "ПШ/konnolli_tomas_begg_karolin_bazy_dannykh_proektirovanie_real.rar"
   ]
 }

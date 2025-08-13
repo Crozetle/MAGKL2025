@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47af5129-bd2c-42e7-a0d4-6797287423e0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ПШ/Вопросы/024.md" beforeDir="false" afterPath="$PROJECT_DIR$/ПШ/Вопросы/024.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ПШ/Вопросы/026.md" beforeDir="false" afterPath="$PROJECT_DIR$/ПШ/Вопросы/026.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ПШ/Вопросы/027.md" beforeDir="false" afterPath="$PROJECT_DIR$/ПШ/Вопросы/027.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ПШ/Вопросы/028.md" beforeDir="false" afterPath="$PROJECT_DIR$/ПШ/Вопросы/028.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ПШ/Вопросы/029.md" beforeDir="false" afterPath="$PROJECT_DIR$/ПШ/Вопросы/029.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ПШ/Вопросы/030.md" beforeDir="false" afterPath="$PROJECT_DIR$/ПШ/Вопросы/030.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ПШ/Вопросы/031.md" beforeDir="false" afterPath="$PROJECT_DIR$/ПШ/Вопросы/031.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ПШ/Вопросы/032.md" beforeDir="false" afterPath="$PROJECT_DIR$/ПШ/Вопросы/032.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ПШ/Вопросы/033.md" beforeDir="false" afterPath="$PROJECT_DIR$/ПШ/Вопросы/033.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ПШ/Вопросы/034.md" beforeDir="false" afterPath="$PROJECT_DIR$/ПШ/Вопросы/034.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ПШ/Вопросы/035.md" beforeDir="false" afterPath="$PROJECT_DIR$/ПШ/Вопросы/035.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ПШ/ПШ.md" beforeDir="false" afterPath="$PROJECT_DIR$/ПШ/ПШ.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="30HYXDRAopLJXeSm8MpsgGVPMH4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47af5129-bd2c-42e7-a0d4-6797287423e0" name="Changes" comment="" />
+      <created>1753286005249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753286005249</updated>
+    </task>
+    <servers />
+  </component>
+</project>
